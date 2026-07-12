@@ -8,8 +8,8 @@ Step 1: Give this repo a ⭐ Star (top-right button) — your instructor needs i
 Step 2: Fork this repo (Fork button, top-right) so you have your own copy to work on.
 Step 3: Clone your fork:
 ```bash
-git clone https://github.com/YOUR_USERNAME/vulnscan-challenge
-cd vulnscan-challenge
+git clone https://github.com/YOUR_USERNAME/security-analysis-of-vulnerable-code
+cd security-analysis-of-vulnerable-code
 ```
 Step 4: Read `student-guide/SETUP.md` to understand how to run each exercise.
 Step 5: Pick a level and start hunting!
